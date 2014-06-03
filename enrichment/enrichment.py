@@ -1,4 +1,4 @@
-## enrichment.py 0.2 ##  (provisional name)
+## enrichment.py 0.2
 
 # Jamie Shallcross
 # Whelan Lab
