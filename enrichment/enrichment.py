@@ -4,9 +4,9 @@
 # Whelan Lab
 # Department of Chemistry & Biochemistry
 # Oberlin College
-# LAST MODIFIED 5/3/13
+# LAST MODIFIED 5/24/14
 #
-# Tentative GPL Lisence (feel free to use, modify, distribute, but give credit and keep it open source)
+# Tentative GPL License (feel free to use, modify, distribute, but give credit and keep it open source)
 #
 # Hosted at https://github.com/rebeccawhelan/PythonEnrichment
 # Send bug reports to jshallcr@cs.oberlin.edu or rwhelan@oberlin.edu
