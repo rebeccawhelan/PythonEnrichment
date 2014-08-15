@@ -182,6 +182,8 @@ def create_table(file, rounds):
 
 
 def fill_table(file, round, count_array, index):
+# It probably wouldn't be hard to make this part run in parallel, just create a new array for each file then merge.
+# Since the dictionary is only read, it should be safe. Maybe not worth the effort. 
 
     if V:
         print "Filling round %d" % (round)
